@@ -8,7 +8,7 @@
   
   ###
   
-<img src="https://github-readme-stats-ac-1s-projects.vercel.app/api/top-langs?username=AC1original&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-ac-1s-projects.vercel.app/api/top-langs?username=AC1original&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&count_private=true" height="150" alt="languages graph" />
 
   ###
 
