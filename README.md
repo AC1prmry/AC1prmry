@@ -1,7 +1,5 @@
 <div align="center">
 
-  <h2>Hi 👋! My name is Nils</h2>
-
   ###
 
   [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AC1original&theme=dracula)](https://git.io/streak-stats)
